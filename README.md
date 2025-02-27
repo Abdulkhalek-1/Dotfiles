@@ -28,7 +28,7 @@ Welcome to my **dotfiles repository**! This is your one-stop shop for all my con
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/dotfiles.git
+git clone https://github.com/Abdulkhalek-1/dotfiles.git
 cd dotfiles
 ```
 
